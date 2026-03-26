@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://huggingface.co/lycui/AvatarForcing"><img src="https://img.shields.io/badge/HuggingFace-Model-ffbd45?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Model"></a>
-  <a href="https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B"><img src="https://img.shields.io/badge/Base-Wan2.1--T2V--1.3B-5b8cff?style=for-the-badge" alt="Base Model"></a>
-  <a href="#license"><img src="https://img.shields.io/badge/License-Apache--2.0-3da639?style=for-the-badge&logo=apache&logoColor=white" alt="License"></a>
+  <a href="https://arxiv.org/abs/2603.14331"><img src="https://img.shields.io/badge/arXiv-2603.14331-b31b1b?style=for-the-badge" alt="arXiv"></a>
+  <a href="https://cuiliyuan121.github.io/AvatarForcing/"><img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"></a>
 </p>
 
 ## 💡 TL;DR
