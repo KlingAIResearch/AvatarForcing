@@ -12,7 +12,7 @@
 
 ## 💡 TL;DR
 
-AvatarForcing is a **one-step streaming diffusion** framework for talking avatars. It generates video from **one reference image + speech audio + (optional) text prompt**.
+AvatarForcing is a **one-step streaming diffusion** framework for talking avatars. It generates video from **one reference image + speech audio +  text prompt**.
 
 - Identity is anchored by the input image (used as the first frame).
 - Audio conditioning uses a streaming speech encoder (Wav2Vec2) to produce per-frame embeddings.
